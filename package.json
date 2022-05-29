@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/jest": "^27.5.1",
+    "jest": "^28.1.0",
+    "msw": "^0.41.1",
+    "strict-event-emitter": "^0.2.4"
+  }
+}
